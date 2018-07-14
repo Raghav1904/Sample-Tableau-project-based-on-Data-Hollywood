@@ -1,0 +1,2 @@
+# Sample-Tableau-project-based-on-Data-Hollywood
+A Trail project based on the data collected from different sources. this example shows the Statistics of Hollywood such as No.of movies released in an year, total tickets sold and the revenue generated from the tickets. The contribution of American Movie Industry to United States GDP, The market share of various Distribution companies. The data considered here is form the year 1995 to 2017
